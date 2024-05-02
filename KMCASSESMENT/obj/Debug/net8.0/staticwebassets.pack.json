@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\POC\\KMCASSESMENT\\KMCASSESMENT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KMCASSESMENT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KMCASSESMENT.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\POC\\KMCASSESMENT\\KMCASSESMENT\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\POC\\KMCASSESMENT\\KMCASSESMENT\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\POC\\KMCASSESMENT\\KMCASSESMENT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\POC\\KMCASSESMENT\\KMCASSESMENT\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KMCASSESMENT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KMCASSESMENT.props",
+      "PackagePath": "build\\KMCASSESMENT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KMCASSESMENT.props",
+      "PackagePath": "buildMultiTargeting\\KMCASSESMENT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KMCASSESMENT.props",
+      "PackagePath": "buildTransitive\\KMCASSESMENT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
